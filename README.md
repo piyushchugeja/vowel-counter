@@ -1,2 +1,9 @@
-# vowel-counter
-This an assembly language program which uses procedures and loops to count vowels in any given string.
+# Vowel Counter
+The English language has 5 vowels.
+- a
+- e
+- i
+- o
+- u
+
+This is a regular assembly language program which takes one <code>string</code> input and counts the number of vowels in it.
